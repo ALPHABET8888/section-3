@@ -1,0 +1,51 @@
+body{
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+.cc {
+  border: 5px solid black;
+}
+.eiei{
+  text-align: center;
+  text-size: 22px;
+  background-color: #f7f7f7;
+  text-transform: uppercase;
+}
+/* PRODUCT INFORMATION */
+.hh{
+  font-size: 24px;
+}
+.zz{
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #777;
+}
+.te:link ,.te:visited{
+  color: black;
+}
+.te:hover ,.te:active {
+  text-decoration: none;
+}
+/* PRODUCT DETAIL */
+.ff {
+  text-transform: uppercase;
+  font-size: 16px;
+}
+.o {
+  list-style: square;
+}
+/* BOTTOM */
+.DEC-BOT{
+  background-color: black;
+  border: none;
+  color: white; 
+  font-size: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.DEC-BOT:hover {
+  color: black;
+  background-color: white
+}
